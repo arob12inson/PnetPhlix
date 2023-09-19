@@ -1,2 +1,3 @@
 *.txt
 *.zip
+!movies_and_users.zip
